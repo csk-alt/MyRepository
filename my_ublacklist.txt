@@ -1,3 +1,4 @@
+title/.*导航网./
 *://*.005i.com/*
 *://*.01-123.com/*
 *://*.01-800.cn/*
@@ -1793,3 +1794,7 @@
 *://47.241.89.120/*
 *://www.cnpython.com/qa/*
 *://*.csdn.net/*
+*://cloud.tencent.com/developer/ask/*
+*://cloud.tencent.com/developer/information/*
+*://support.huaweicloud.com/topic/*
+*://www.huaweicloud.com/theme/*
